@@ -1,123 +1,148 @@
-<!-- Animated Header -->
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+John+Doe;Frontend+Developer+|+React+Enthusiast;Crafting+Playful+and+Powerful+Web+Experiences" alt="Typing SVG" />
+<!-- Profile README for scarks -->
+<div align="center">
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+scarks;Frontend+Developer+%7C+React+Enthusiast;Creating+Interactive+and+Dynamic+Web+Experiences" alt="Typing SVG" />
 
+  <!-- Neon Name Title -->
+  <h1 style="color:#00FFFF;">⚡ scarks ⚡</h1>
+  <h3 style="color:#00BFFF;">Frontend Developer | React | JavaScript | Python</h3>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+🚀 I'm **John Doe (aka scarks)** — a passionate **Frontend Web Developer** who loves building sleek, interactive, and high-performing user interfaces.  
+I enjoy crafting visually stunning experiences using **React, CSS animations, and modern UI design principles**.  
+
+- 🌱 Currently improving my **React** and **Python** skills  
+- 🧠 Interested in **AI + Web Integrations**  
+- 💼 Targeting software houses and startups  
+- ⚡ Fun Fact: I spend hours perfecting tiny UI details ✨
+
+---
+
+### 🧰 Tech Stack
+
+<div align="center">
+  
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="HTML" />
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="CSS" />
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=javascript" height="50" alt="JavaScript" />
+  <!-- React -->
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="React" />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  <!-- MySQL -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="MySQL" />
+  <!-- PostgreSQL -->
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="PostgreSQL" />
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+
+</div>
+
+---
+
+### 🧠 Skill Stack
+
+<div align="center">
+
+![Frontend Development](https://img.shields.io/badge/Frontend_Development-00FFFF?style=for-the-badge&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-00BFFF?style=for-the-badge&logoColor=black)
+![UI/UX Implementation](https://img.shields.io/badge/UI%2FUX_Implementation-007FFF?style=for-the-badge&logoColor=black)
+![API Integration](https://img.shields.io/badge/API_Integration-1E90FF?style=for-the-badge&logoColor=black)
+![Version Control](https://img.shields.io/badge/Version_Control-00CED1?style=for-the-badge&logoColor=black)
+![Database Management](https://img.shields.io/badge/Database_Management-20B2AA?style=for-the-badge&logoColor=black)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-00FA9A?style=for-the-badge&logoColor=black)
+
+</div>
+
+---
+
+### 🚀 Featured Projects  
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="300px">
+        <img src="https://via.placeholder.com/300x150/000000/00FFFF?text=Project+1" alt="Project 1"/><br><br>
+        <b>💎 Project Name 1</b><br>
+        <sub>Short description about your project, tech used, and purpose.</sub><br><br>
+        <a href="#">🔗 View Project</a>
+      </td>
+      <td align="center" width="300px">
+        <img src="https://via.placeholder.com/300x150/000000/00FFFF?text=Project+2" alt="Project 2"/><br><br>
+        <b>⚡ Project Name 2</b><br>
+        <sub>Short description about your project, tech used, and purpose.</sub><br><br>
+        <a href="#">🔗 View Project</a>
+      </td>
+      <td align="center" width="300px">
+        <img src="https://via.placeholder.com/300x150/000000/00FFFF?text=Project+3" alt="Project 3"/><br><br>
+        <b>🚀 Project Name 3</b><br>
+        <sub>Short description about your project, tech used, and purpose.</sub><br><br>
+        <a href="#">🔗 View Project</a>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=scarks&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=scarks&theme=tokyonight&hide_border=true" height="170" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scarks&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00FFFF?style=for-the-badge&logo=firefox&logoColor=black" />
+</a>
+
+<a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://github.com/scarks" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### 👁️ Visitor Count
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=scarks&label=Profile+Views&color=00FFFF&style=flat-square" alt="Profile views" />
 </p>
 
 ---
 
-<h3 align="center">🎨 Frontend Developer | Turning Ideas into Interactive Web Experiences</h3>
-
----
-
-### 🚀 About Me  
-
-I'm a **Frontend Developer** who blends creativity with technical skill to craft beautiful, performant, and accessible web interfaces.  
-I love experimenting with **React**, exploring the latest in web technologies, and designing clean UI/UX experiences that engage users.  
-
-💡 **Tagline:** “Growth Through Code”  
-🎯 **Goal:** To connect with recruiters, engineers, and creative minds who value innovation and elegant code.  
-
----
-
-### 🧰 Tech Stack  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-### 🧩 Skill Stack  
-
-| Category | Tools & Tech |
-|-----------|--------------|
-| Frontend | React, JavaScript (ES6+), HTML5, CSS3, TailwindCSS |
-| Backend | Python (basic APIs), REST Integration |
-| Databases | MySQL, PostgreSQL |
-| Tools | Git, GitHub, VS Code, Figma |
-| DevOps | AWS (Basics), Docker, CI/CD, Terraform *(optional section)* |
-
----
-
-### 💼 Projects  
-
-> 🖼️ Below are placeholders for your top 3 projects — replace the images, titles, and links with your own.
-
-<table>
-  <tr>
-    <td width="33%">
-      <img src="https://via.placeholder.com/300x180.png?text=Project+1" alt="Project 1"/>
-      <h4 align="center">Project 1 Title</h4>
-      <p align="center">Short description of your first project. What it does, what tech you used, and what makes it unique.</p>
-      <p align="center">
-        <a href="https://github.com/yourusername/project1">🔗 GitHub</a> • 
-        <a href="https://yourliveprojectlink.com">🌐 Live Demo</a>
-      </p>
-    </td>
-    <td width="33%">
-      <img src="https://via.placeholder.com/300x180.png?text=Project+2" alt="Project 2"/>
-      <h4 align="center">Project 2 Title</h4>
-      <p align="center">Short description of your second project — maybe a React app, animation, or dashboard.</p>
-      <p align="center">
-        <a href="https://github.com/yourusername/project2">🔗 GitHub</a> • 
-        <a href="https://yourliveprojectlink.com">🌐 Live Demo</a>
-      </p>
-    </td>
-    <td width="33%">
-      <img src="https://via.placeholder.com/300x180.png?text=Project+3" alt="Project 3"/>
-      <h4 align="center">Project 3 Title</h4>
-      <p align="center">Description of your third project. Mention the features or design focus.</p>
-      <p align="center">
-        <a href="https://github.com/yourusername/project3">🔗 GitHub</a> • 
-        <a href="https://yourliveprojectlink.com">🌐 Live Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
---- 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=scarks&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=scarks&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=scarks&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=scarks&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### ✨ Vision  
-
-> Building interfaces that inspire, perform, and scale.  
-> Always learning, always designing, always coding.
-
----
-
-<h3 align="center">⭐ “Code the Web You Want to See.” ⭐</h3>
+<div align="center">
+  <h3 style="color:#00FFFF;">⚡ "Building Tomorrow’s Web, One Line of Code at a Time" ⚡</h3>
+</div>
